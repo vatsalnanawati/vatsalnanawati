@@ -9,6 +9,10 @@
 </h3>
 
 <h3 aligh="left"> Cough Detection with TinyML on Arduino (March 2021): Utilized machine learning (K-Nearest Neighbors (KNN)) on an Arduino Nano BLE Sense for real-time audio analysis to identify the occurrence of coughing </h3>
+
+<h3 aligh="left"> Developed a real-time cough detection system using Arduino Nano BLE Sense and a K-Nearest Neighbors (KNN) model. Captured and preprocessed audio data, optimized the model for microcontroller deployment, and ensured efficient real-time health monitoring for respiratory conditions. </h3>
+
+<h3 aligh="left"> Designed and implemented the Wallet Wise PowerBI Dashboard to oversee revenue assurance and fraud detection for telecom services, including money, data, SMS, and voice. Leveraged real-time data integration to monitor KPIs, detect irregularities, and highlight potential fraud, safeguarding revenue and minimizing losses </h3>
 ###
 
 <div align="center">
