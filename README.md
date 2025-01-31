@@ -15,9 +15,9 @@
 
 • 2024.11: 📈 Developed a data-driven SQL model to enhance the SBA loan approval process. The project utilized historical data to analyze key factors such as loan amount, business location, loan term, and issuing bank, providing actionable insights for lenders.
 
-• 2024.10: I was selected as a graduate student analyst at the GSM. Student Analysts work closely with the executive and academic directors to create an engaging experience for current and future MSBA students. I leverage data to work on initiatives related to the student experience, program outreach, market intelligence, and analytics.
+• 2024.10: 📊 I was selected as a graduate student analyst at the GSM. Student Analysts work closely with the executive and academic directors to create an engaging experience for current and future MSBA students. I leverage data to work on initiatives related to the student experience, program outreach, market intelligence, and analytics.
 
-• 2024.08: 🚩 New practicum program coming(Expected to 2025.06): [Owens Corning](https://www.owenscorning.com/en-us)
+• 2024.08: 🚩 New practicum program coming, where the team has tasked us to implement a Generative AI chatbot to improve operational efficiency and support data-driven decision-making. (Expected to 2025.06): [Owens Corning](https://www.owenscorning.com/en-us)
 
 • 2024.07: 🛸 Started my new journey in San Francisco, California, go read my article on the UC Davis GSM Website: [UC Davis GSM](https://gsm.ucdavis.edu/blog/creating-community-my-journey-international-msba-student)
 
