@@ -1,8 +1,29 @@
 <h1 align="left">Hi Connections👋! </h1>
   
-<h3>My name is Vatsal and I'm currently a Master of Science in Business Analytics candidate at UC Davis.  <br><br> Being a analytics professional with over 2 years of experience in leading and collaborating with business-driven teams. <br>Proven expertise in designing and implementing automation techniques and risk management solutions, driving enhanced fraud detection and operational efficiency within telecom and financial sectors.</h3>
+<h3>My name is Vatsal and I'm currently a Master of Science in Business Analytics candidate at UC Davis.  <br><br> Being an analytics professional with over 2 years of experience in leading and collaborating with business-driven teams. <br>Proven expertise in designing and implementing automation techniques and risk management solutions, driving enhanced fraud detection and operational efficiency within telecom and financial sectors.</h3>
 
-<h2>Check out my Portfolio: https://vatsalnanawati.github.io/</h2>
+🎓 **MS Business Analytics** @ UC Davis | 📊 Data Analyst | 💡 Passionate about Leveraging Data for Business Insights
+
+- 👕 [Portfolio](https://vatsalnanawati.github.io/)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/vatsalnanawati)
+- 📫 nanawativatsal2000@gmail.com
+
+---
+## 🔥 News
+
+• 2025.03: 🏆 On track for being a certified **Tableau Desktop Specialist**
+
+• 2024.11: 📈 Developed a data-driven SQL model to enhance the SBA loan approval process. The project utilized historical data to analyze key factors such as loan amount, business location, loan term, and issuing bank, providing actionable insights for lenders.
+
+• 2024.10: I was selected as a graduate student analyst at the GSM. Student Analysts work closely with the executive and academic directors to create an engaging experience for current and future MSBA students. I leverage data to work on initiatives related to the student experience, program outreach, market intelligence, and analytics.
+
+• 2024.08: 🚩 New practicum program coming(Expected to 2025.06): [Owens Corning](https://www.owenscorning.com/en-us)
+
+• 2024.07: 🛸 Started my new journey in San Francisco, California, go read my article on the UC Davis GSM Website: [UC Davis GSM](https://gsm.ucdavis.edu/blog/creating-community-my-journey-international-msba-student)
+
+• 2024.03: 🎉 Admitted to the [UCDavis MSBA Program](https://gsm.ucdavis.edu/master-science-business-analytics-msba)
+
+---
 
 <h2 align="left"> Analytics Projects: </h2>
 <h3 aligh="left">COVID-19 X-ray Detection with PyTorch (Jan 2020): Used a ResNet-18 model to classify a dataset of around 3000 Chest X-Ray scans into 3 classes: Normal, Viral Pneumonia & COVID-19 for COVID-19 detection.</h3>
