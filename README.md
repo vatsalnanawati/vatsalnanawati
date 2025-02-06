@@ -4,7 +4,7 @@
 
 🎓 **MS Business Analytics** @ UC Davis | 📊 Data Analyst | 💡 Passionate about Leveraging Data for Business Insights
 
-- 👕 [Portfolio]()
+- 👕 [Portfolio](https://vatsalnanawati.github.io/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vatsalnanawati)
 - 📫 nanawativatsal2000@gmail.com
 
