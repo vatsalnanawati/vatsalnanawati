@@ -12,13 +12,17 @@
 ---
 ## 🔥 News
 
-• 2025.03: 🏆 On track for being a certified **Tableau Desktop Specialist**
+• 2025.04: 🏆 On track for being a certified **Tableau Desktop Specialist**
+
+• 2025.03: 📊 Completed the Telecom Customer Churn Prediction project, leveraging machine learning to identify high-risk customers based on usage patterns, billing, and support interactions. The model provides actionable insights to reduce churn and improve customer retention.
+
+• 2025.02: 🏍️ Launched the MotoGP Newsletter, integrating APIs to fetch real-time race results, rider stats, and news updates, delivering an engaging experience for motorsport enthusiasts.
 
 • 2024.11: 📈 Developed a data-driven SQL model to enhance the SBA loan approval process. The project utilized historical data to analyze key factors such as loan amount, business location, loan term, and issuing bank, providing actionable insights for lenders.
 
 • 2024.10: 📊 I was selected as a graduate student analyst at the GSM. Student Analysts work closely with the executive and academic directors to create an engaging experience for current and future MSBA students. I leverage data to work on initiatives related to the student experience, program outreach, market intelligence, and analytics.
 
-• 2024.08: 🚩 New practicum program coming, where the team has tasked us to implement a Generative AI chatbot to improve operational efficiency and support data-driven decision-making. (Expected to 2025.06): [Owens Corning](https://www.owenscorning.com/en-us)
+• 2024.08: 🚩 A New practicum program is coming, where the team has tasked us to implement a Generative AI chatbot to improve operational efficiency and support data-driven decision-making. (Expected to 2025.06): [Owens Corning](https://www.owenscorning.com/en-us)
 
 • 2024.07: 🛸 Started my new journey in San Francisco, California, go read my article on the UC Davis GSM Website: [UC Davis GSM](https://gsm.ucdavis.edu/blog/creating-community-my-journey-international-msba-student)
 
