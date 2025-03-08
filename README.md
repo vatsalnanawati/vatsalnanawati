@@ -31,6 +31,9 @@
 ---
 
 <h2 align="left"> Analytics Projects: </h2>
+
+<h3 align="left">Telecom Customer Churn Prediction (March 2025): Developed a machine learning model to predict customer churn using telecom usage patterns, billing behavior, and customer support interactions. Leveraged ensemble learning techniques to enhance prediction accuracy and provided actionable insights for proactive customer retention strategies.</h3>
+
 <h3 aligh="left">COVID-19 X-ray Detection with PyTorch (Jan 2020): Used a ResNet-18 model to classify a dataset of around 3000 Chest X-Ray scans into 3 classes: Normal, Viral Pneumonia & COVID-19 for COVID-19 detection.</h3>
 </h3>
 
