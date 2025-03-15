@@ -30,18 +30,28 @@
 
 ---
 
-<h2 align="left"> Analytics Projects: </h2>
+<h2 align="left">📊 Analytics Projects: </h2>
 
-<h3 align="left">Telecom Customer Churn Prediction (March 2025): Developed a machine learning model to predict customer churn using telecom usage patterns, billing behavior, and customer support interactions. Leveraged ensemble learning techniques to enhance prediction accuracy and provided actionable insights for proactive customer retention strategies.</h3>
+<h3 align="left">📡 Telecom Customer Churn Prediction (March 2025):</h3>
+<p>🔍 Developed a machine learning model to predict customer churn using telecom usage patterns, billing behavior, and customer support interactions. 🚀 Leveraged ensemble learning techniques to enhance prediction accuracy and provided actionable insights for proactive customer retention strategies.</p>
 
-<h3 aligh="left">COVID-19 X-ray Detection with PyTorch (Jan 2020): Used a ResNet-18 model to classify a dataset of around 3000 Chest X-Ray scans into 3 classes: Normal, Viral Pneumonia & COVID-19 for COVID-19 detection.</h3>
-</h3>
+<h3 align="left">📈 Stock Market Trends During AI-Driven Market Disruptions (February 2025):</h3>
+<p>💹 Analyzed the impact of AI-driven financial shifts on stock prices using yFinance and SEC EDGAR API. 📉 Conducted sentiment analysis on AI-related financial disclosures and compared stock volatility with historical market crashes to derive actionable investment insights.</p>
 
-<h3 aligh="left"> Cough Detection with TinyML on Arduino (March 2021): Utilized machine learning (K-Nearest Neighbors (KNN)) on an Arduino Nano BLE Sense for real-time audio analysis to identify the occurrence of coughing </h3>
+<h3 align="left">💰 Loan Classification with SQL & Data Analytics (October 2024):</h3>
+<p>🛢️ Designed a normalized relational database in MySQL to analyze loan approvals and defaults. 📊 Created structured tables, performed complex SQL queries, and derived insights on credit history, employment status, and loan risks.</p>
 
-<h3 aligh="left"> Developed a real-time cough detection system using Arduino Nano BLE Sense (March 2022) and a K-Nearest Neighbors (KNN) model. Captured and preprocessed audio data, optimized the model for microcontroller deployment, and ensured efficient real-time health monitoring for respiratory conditions. </h3>
+<h3 align="left">📊 Wallet Wise PowerBI Dashboard (March 2024):</h3>
+<p>🛡️ Designed and implemented the Wallet Wise PowerBI Dashboard to oversee revenue assurance and fraud detection for telecom services, including money, data, SMS, and voice. 🔎 Leveraged real-time data integration to monitor KPIs, detect irregularities, and highlight potential fraud, safeguarding revenue and minimizing losses.</p>
 
-<h3 aligh="left"> Designed and implemented the Wallet Wise PowerBI Dashboard (March 2024) to oversee revenue assurance and fraud detection for telecom services, including money, data, SMS, and voice. Leveraged real-time data integration to monitor KPIs, detect irregularities, and highlight potential fraud, safeguarding revenue and minimizing losses </h3>
+<h3 align="left">🎧 Real-Time Cough Detection System (March 2022):</h3>
+<p>🛠️ Developed a real-time cough detection system using Arduino Nano BLE Sense and a K-Nearest Neighbors (KNN) model. 📡 Captured and preprocessed audio data, optimized the model for microcontroller deployment, and ensured efficient real-time health monitoring for respiratory conditions.</p>
+
+<h3 align="left">🤖 Cough Detection with TinyML on Arduino (March 2021):</h3>
+<p>🎤 Utilized machine learning (K-Nearest Neighbors (KNN)) on an Arduino Nano BLE Sense for real-time audio analysis to identify the occurrence of coughing.</p>
+
+<h3 align="left">🩺 COVID-19 X-ray Detection with PyTorch (Jan 2020):</h3>
+<p>⚕️ Used a ResNet-18 model to classify a dataset of around 3000 Chest X-Ray scans into 3 classes: Normal, Viral Pneumonia & COVID-19 for COVID-19 detection.</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vatsalnanawati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
