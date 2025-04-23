@@ -12,11 +12,16 @@
 ---
 ## 🔥 News
 
-• 2025.04: 🏆 On track for being a certified **Tableau Desktop Specialist**
+• 2025.05: 🏆 On track for being a certified **Tableau Desktop Specialist**
+
+• 2025.04: 🌪️ Built and deployed **Cascade Crisis AI** at the AggieHacks 2025 Hackathon — a real-time disaster prediction and misinformation detection system using GeoPandas, DBSCAN, and NLP models. Delivered a live Streamlit demo that clustered incidents, verified tweets, and generated infrastructure response plans.
 
 • 2025.03: 📊 Completed the Telecom Customer Churn Prediction project, leveraging machine learning to identify high-risk customers based on usage patterns, billing, and support interactions. The model provides actionable insights to reduce churn and improve customer retention.
 
-• 2025.02: 🏍️ Launched the MotoGP Newsletter, integrating APIs to fetch real-time race results, rider stats, and news updates, delivering an engaging experience for motorsport enthusiasts.
+• 2025.02: 📈 Completed the **DDR Project: Stock Market Trends During AI-Driven Market Disruptions** project — analyzed the financial impact of DeepSeek AI by comparing SEC filings and sentiment trends against historical market events. Used yFinance, SEC EDGAR API, and NLP for insight extraction and stock volatility analysis.
+
+
+• 2025.01: 🏍️ Launched the MotoGP Newsletter, integrating APIs to fetch real-time race results, rider stats, and news updates, delivering an engaging experience for motorsport enthusiasts.
 
 • 2024.11: 📈 Developed a data-driven SQL model to enhance the SBA loan approval process. The project utilized historical data to analyze key factors such as loan amount, business location, loan term, and issuing bank, providing actionable insights for lenders.
 
