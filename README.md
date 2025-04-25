@@ -1,4 +1,6 @@
-<h1 align="left"> 👦 About Me:</h1>
+<h1 align="left"> Vatsal Nanawati</h1>
+---
+<h1 align="left"> 👦About Me:</h1>
 <h2 align="left">Hi Connections👋! </h2>
 
   
