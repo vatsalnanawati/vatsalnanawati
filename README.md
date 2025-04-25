@@ -1,11 +1,18 @@
 <h1 align="left"> Vatsal Nanawati</h1>
-<h1 align="left"> 👦About Me:=</h1>
+<h1 align="left"> 👦About Me</h1>
 <h2 align="left">Hi Connections👋! </h2>
 
   
 <h3>My name is Vatsal and I'm currently a Master of Science in Business Analytics candidate at UC Davis.  <br><br> Being an analytics professional with over 2 years of experience in leading and collaborating with business-driven teams. <br>Proven expertise in designing and implementing automation techniques and risk management solutions, driving enhanced fraud detection and operational efficiency within telecom and financial sectors.</h3>
 
-🎓 **MS Business Analytics** @ UC Davis | 📊 Data Analyst | 💡 Passionate about Leveraging Data for Business Insights
+--- 
+
+## 🎓 Education
+
+- **M.Sc. in Business Analytics**, UC Davis *(Expected August 2025)*
+- **B.Eng. in Mechatronics**, Manipal University *(July 2022)*
+
+---
 
 How to reach me!
 - 👕 [Portfolio](https://vatsalnanawati.github.io/)
