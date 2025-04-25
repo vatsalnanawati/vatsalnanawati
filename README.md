@@ -1,4 +1,5 @@
-<h1 align="left">Hi Connections👋! </h1>
+<h1 align="left"> 👦 About Me:</h1>
+<h2 align="left">Hi Connections👋! </h2>
 
   
 <h3>My name is Vatsal and I'm currently a Master of Science in Business Analytics candidate at UC Davis.  <br><br> Being an analytics professional with over 2 years of experience in leading and collaborating with business-driven teams. <br>Proven expertise in designing and implementing automation techniques and risk management solutions, driving enhanced fraud detection and operational efficiency within telecom and financial sectors.</h3>
@@ -8,6 +9,9 @@
 - 👕 [Portfolio](https://vatsalnanawati.github.io/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vatsalnanawati)
 - 📫 nanawativatsal2000@gmail.com
+- 📞 +1 628-297-7902
+
+- ⚡ Fun fact: I enjoy solving complex data problems and reading mystery novels
 
 ---
 ## 🔥 News
@@ -32,7 +36,7 @@
 
 ---
 
-<h2 align="left">📊 Analytics Projects: </h2>
+<h2 align="left">📊 Key Analytics Projects: </h2>
 
 <h3 align="left">📡 Telecom Customer Churn Prediction (March 2025):</h3>
 <p>🔍 Developed a machine learning model to predict customer churn using telecom usage patterns, billing behavior, and customer support interactions. 🚀 Leveraged ensemble learning techniques to enhance prediction accuracy and provided actionable insights for proactive customer retention strategies.</p>
@@ -45,15 +49,6 @@
 
 <h3 align="left">📊 Wallet Wise PowerBI Dashboard (March 2024):</h3>
 <p>🛡️ Designed and implemented the Wallet Wise PowerBI Dashboard to oversee revenue assurance and fraud detection for telecom services, including money, data, SMS, and voice. 🔎 Leveraged real-time data integration to monitor KPIs, detect irregularities, and highlight potential fraud, safeguarding revenue and minimizing losses.</p>
-
-<h3 align="left">🎧 Real-Time Cough Detection System (March 2022):</h3>
-<p>🛠️ Developed a real-time cough detection system using Arduino Nano BLE Sense and a K-Nearest Neighbors (KNN) model. 📡 Captured and preprocessed audio data, optimized the model for microcontroller deployment, and ensured efficient real-time health monitoring for respiratory conditions.</p>
-
-<h3 align="left">🤖 Cough Detection with TinyML on Arduino (March 2021):</h3>
-<p>🎤 Utilized machine learning (K-Nearest Neighbors (KNN)) on an Arduino Nano BLE Sense for real-time audio analysis to identify the occurrence of coughing.</p>
-
-<h3 align="left">🩺 COVID-19 X-ray Detection with PyTorch (Jan 2020):</h3>
-<p>⚕️ Used a ResNet-18 model to classify a dataset of around 3000 Chest X-Ray scans into 3 classes: Normal, Viral Pneumonia & COVID-19 for COVID-19 detection.</p>
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=vatsalnanawati&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
