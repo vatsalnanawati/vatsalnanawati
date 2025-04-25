@@ -6,10 +6,13 @@
 
 🎓 **MS Business Analytics** @ UC Davis | 📊 Data Analyst | 💡 Passionate about Leveraging Data for Business Insights
 
+<h4> 🔗 How to reach me!</h4>
 - 👕 [Portfolio](https://vatsalnanawati.github.io/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vatsalnanawati)
 - 📫 nanawativatsal2000@gmail.com
 - 📞 +1 628-297-7902
+
+<h4> 🌟Interests!</h4>
 - 😄 Hobbies: Football, Adventure Sports & Just staying outside essentially
 - ⚡ Fun fact: I enjoy solving data problems in my hobbies such as MotoGP, F-1 & Sports in general
 ---
