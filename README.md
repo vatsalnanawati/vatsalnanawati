@@ -6,14 +6,12 @@
 <h3>My name is Vatsal and I'm currently a Master of Science in Business Analytics candidate at UC Davis.  <br><br> Being an analytics professional with over 2 years of experience in leading and collaborating with business-driven teams. <br>Proven expertise in designing and implementing automation techniques and risk management solutions, driving enhanced fraud detection and operational efficiency within telecom and financial sectors.</h3>
 
 --- 
-
 ## 🎓 Education
 
 - **M.Sc. in Business Analytics**, UC Davis *(Expected August 2025)*
 - **B.Eng. in Mechatronics**, Manipal University *(July 2022)*
 
 ---
-
 How to reach me!
 - 👕 [Portfolio](https://vatsalnanawati.github.io/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/vatsalnanawati)
@@ -23,6 +21,21 @@ How to reach me!
 🌟Interests!
 - 😄 Hobbies: Football, Adventure Sports & Just staying outside essentially
 - ⚡ Fun fact: I enjoy solving data problems in my hobbies such as MotoGP, F-1 & Sports in general
+
+---
+## 💼 Experience Highlights
+
+- **Data Analyst | Owens Corning (Practicum Project, UC Davis MSBA)**  
+  Designed and deployed a Generative AI chatbot leveraging OpenAI LLMs, reducing error rates by 40%, and improving operational efficiency across Accounting, Finance, and Sales teams.
+
+- **Graduate Student Analyst | UC Davis**  
+  Analyzed engagement patterns across 2000+ students, boosting workshop attendance and program effectiveness through survey analysis, targeted outreach, and dashboard creation.
+
+- **Associate Consultant | KPMG**  
+  Led fraud detection initiatives across Telecom sectors, driving an 18% fraud reduction through Machine Learning models, Revenue Assurance, and data privacy solutions.
+
+- **Project Intern | Neurosensum**  
+  Analyzed EEG and Eye-Tracking data from 1200+ sessions, producing attention heatmaps and insights for CPG and media sectors with 85% model accuracy.
 ---
 ## 🔥 News
 
