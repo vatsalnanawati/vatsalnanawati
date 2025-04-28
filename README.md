@@ -5,6 +5,10 @@
   
 <h3>My name is Vatsal and I'm currently a Master of Science in Business Analytics candidate at UC Davis.  <br><br> Being an analytics professional with over 2 years of experience in leading and collaborating with business-driven teams. <br>Proven expertise in designing and implementing automation techniques and risk management solutions, driving enhanced fraud detection and operational efficiency within telecom and financial sectors.</h3>
 
+🌟Interests!
+- 😄 Hobbies: Football, Adventure Sports & Just staying outside essentially
+- ⚡ Fun fact: I enjoy solving data problems in my hobbies such as MotoGP, F-1 & Sports in general
+  
 --- 
 ## 🎓 Education
 
@@ -18,9 +22,11 @@ How to reach me!
 - 📫 nanawativatsal2000@gmail.com
 - 📞 +1 628-297-7902
 
-🌟Interests!
-- 😄 Hobbies: Football, Adventure Sports & Just staying outside essentially
-- ⚡ Fun fact: I enjoy solving data problems in my hobbies such as MotoGP, F-1 & Sports in general
+<div align="left">
+  <a href="https://www.linkedin.com/in/vatsalnanawati/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
+  </a>
+</div>
 
 ---
 ## 💼 Experience Highlights
@@ -120,12 +126,6 @@ How to reach me!
 
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-<div align="left">
-  <a href="https://www.linkedin.com/in/vatsalnanawati/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
 
 ###
 
