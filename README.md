@@ -16,15 +16,15 @@
 - **B.Eng. in Mechatronics**, Manipal University *(July 2022)*
 
 ---
-How to reach me!
+How do you reach me? I'm always open to coffee, code, or conversation! ☕💻🗣️
 - 👕 [Portfolio](https://vatsalnanawati.github.io/)
 - 📫 nanawativatsal2000@gmail.com
 - 📞 +1 628-297-7902
-- <div align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/vatsalnanawati/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
- </div>
+</div>
 
 ---
 ## 💼 Experience Highlights
