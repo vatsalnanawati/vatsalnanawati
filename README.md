@@ -1,81 +1,132 @@
-<h1 align="left"> Vatsal Nanawati</h1>
-<h1 align="left"> 👦About Me</h1>
-<h2 align="left">Hi Connections👋! </h2>
+<p align="center">
+  <h1>Vatsal Nanawati</h1>
+  <p><strong>Analytics & AI Strategist | MSBA ’24 @ UC Davis GSM</strong></p>
+  <p><em>Building data-driven systems that unlock insights and power business growth.</em></p>
+  <p>
+    <a href="https://www.linkedin.com/in/vatsalnanawati" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-@vatsalnanawati-blue?logo=linkedin" alt="LinkedIn"/>
+    </a>
+    &nbsp;
+    <a href="https://github.com/vatsalnanawati" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-@vatsalnanawati-black?logo=github" alt="GitHub"/>
+    </a>
+    &nbsp;
+    <a href="mailto:vnanawati@ucdavis.edu">
+      <img src="https://img.shields.io/badge/Email-vnanawati%40ucdavis.edu-red?logo=gmail" alt="Email"/>
+    </a>
+    &nbsp;
+    <a href="https://vatsalnanawati.github.io/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-%F0%9F%91%95%20Click%20Here-orange?logo=firefox" alt="Portfolio"/>
+    </a>
+  </p>
+</p>
 
-  
-<h3>My name is Vatsal and I'm currently a Master of Science in Business Analytics candidate at UC Davis.  <br><br> Being an analytics professional with over 2 years of experience in leading and collaborating with business-driven teams. <br>Proven expertise in designing and implementing automation techniques and risk management solutions, driving enhanced fraud detection and operational efficiency within telecom and financial sectors.</h3>
+## 👋 Namaste, Apa Kabar, Bonjour, Hello!
 
-🌟Interests!
-- 😄 Hobbies: Football, Adventure Sports & Just staying outside essentially
-- ⚡ Fun fact: I enjoy solving data problems in my hobbies such as MotoGP, F-1 & Sports in general
-  
---- 
+I’m **Vatsal**, a data-driven problem solver passionate about transforming messy data into clear, actionable insights. Currently pursuing my Master’s in Business Analytics at **UC Davis**, I bring 3+ years of cross-functional experience at the intersection of **business strategy, data science**, and **engineering**.
+
+Prior to grad school, I worked at **KPMG**, where I built automation pipelines and deployed fraud mitigation frameworks for telecom clients—directly reducing billing discrepancies by over **$300K**. Most recently at **Owens Corning**, I’ve been developing real-time dashboards, building **Generative AI** solutions, and using analytics to optimize operational strategy.
+
+What drives me? Blending curiosity with precision. I thrive on uncovering insights that guide smarter decisions—whether it’s deploying scalable **SQL pipelines**, fine-tuning a **predictive model**, or working cross-functionally to deliver measurable business value.
+
+Outside of work, I’m an adrenaline junkie and motorbike enthusiast—often found skydiving, trekking, or plotting my next **scuba diving** adventure.
+
+Let’s connect! I’m always up for a conversation on **analytics, AI**, or the best hidden trekking trails 🌍
+
+
+---
+
 ## 🎓 Education
 
-- **M.Sc. in Business Analytics**, UC Davis *(Expected August 2025)*
-- **B.Eng. in Mechatronics**, Manipal University *(July 2022)*
+### 🏛 University of California, Davis  
+**Master of Science, Business Analytics** | San Francisco, CA | Expected Jul 2025  
+*Graduate Student Analyst (GSA)* – Conducted data-driven analysis of alumni career paths to support GSM strategic planning  
+**Highlighted Coursework:** Advanced Statistics & Forecasting, Machine Learning, Analytical Decision Making, Big Data, Marketing Analytics, Time Series Analysis
+
+### 🏛 Manipal Institute of Technology  
+**Bachelor of Technology, Mechatronics (Robotics Minor)** | Manipal, India | Jul 2022  
+**Highlighted Coursework:** Robotics & Control, Computer Vision, Embedded Systems, Data Analytics, Product Design, Machine Learning Foundations
 
 ---
-How do you reach me? I'm always open to coffee, code, or conversation! ☕💻🗣️
-- 👕 [Portfolio](https://vatsalnanawati.github.io/)
-- 📫 nanawativatsal2000@gmail.com
-- 📞 +1 628-297-7902
-<div align="left">
-  <a href="https://www.linkedin.com/in/vatsalnanawati/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-  </a>
-</div>
+
+## 💼 Professional Experience
+
+### 🤖 Interview Query  
+**AI Content Intern** | Remote | June 2024 – Present  
+- Developed an LLM-based diagram generator that converts system design prompts into Mermaid.js flowcharts  
+- Built a Streamlit tool that simplifies content creation for technical case studies using GPT-4 and prompt chaining  
+- Authored and edited case questions spanning product analytics, supply chain, SaaS metrics, and growth strategy  
+- Collaborated closely with PMs and senior content creators to streamline visual storytelling and technical clarity  
 
 ---
-## 💼 Experience Highlights
 
-- **Data Analyst | Owens Corning (Practicum Project, UC Davis MSBA)**  
-  Designed and deployed a Generative AI chatbot leveraging OpenAI LLMs, reducing error rates by 40%, and improving operational efficiency across Accounting, Finance, and Sales teams.
+### 🧠 Owens Corning (Practicum Project)  
+**Data Analyst** | San Francisco, CA | Aug 2024 – Jun 2025  
+- Built a RAG-powered internal GPT chatbot using OpenAI + Snowflake to answer business queries with 95% accuracy  
+- Diagnosed 200+ hallucination cases through data validation, cutting schema mismatch errors by 40%  
+- Automated Streamlit dashboards for structured finance data, reducing manual ad hoc requests by 30%  
+- Designed an intent classification engine using vector embeddings to smart-route queries with 35% fewer errors  
 
-- **Graduate Student Analyst | UC Davis**  
-  Analyzed engagement patterns across 2000+ students, boosting workshop attendance and program effectiveness through survey analysis, targeted outreach, and dashboard creation.
-
-- **Associate Consultant | KPMG**  
-  Led fraud detection initiatives across Telecom sectors, driving an 18% fraud reduction through Machine Learning models, Revenue Assurance, and data privacy solutions.
-
-- **Project Intern | Neurosensum**  
-  Analyzed EEG and Eye-Tracking data from 1200+ sessions, producing attention heatmaps and insights for CPG and media sectors with 85% model accuracy.
 ---
-## 🔥 News
 
-• 2025.05: 🏆 On track for being a certified **Tableau Desktop Specialist**
+### 🧾 KPMG Global Services  
+**Associate Risk Consultant** | Bangalore, India | Jan 2022 – Jun 2024  
+- Reduced telecom fraud by 18% across MENA/SEA by deploying RAFM-aligned machine learning pipelines  
+- Built scalable ETL systems using Python + SQL to support GBM/SIMBOX fraud detection models ($50K/month savings)  
+- Created Power BI dashboards connected to risk registers to track audit KPIs in real time  
+- Automated revenue assurance monitoring via Subex RAFM, cutting 500 manual hours/month (~$25K saved)  
+- Received KPMG Kudos Award for excellence in model delivery, team collaboration, and business impact  
 
-• 2025.04: 🌪️ Built and deployed **Cascade Crisis AI** at the AggieHacks 2025 Hackathon — a real-time disaster prediction and misinformation detection system using GeoPandas, DBSCAN, and NLP models. Delivered a live Streamlit demo that clustered incidents, verified tweets, and generated infrastructure response plans.
+---
 
-• 2025.03: 📊 Completed the Telecom Customer Churn Prediction project, leveraging machine learning to identify high-risk customers based on usage patterns, billing, and support interactions. The model provides actionable insights to reduce churn and improve customer retention.
+### 🧪 Neurosensum  
+**Project Intern** | Jakarta, Indonesia | Nov 2020 – Dec 2020  
+- Supported EEG + Eye Tracking research for 5+ concurrent studies across CPG and media domains  
+- Analyzed over 1,200 consumer session logs to extract subconscious engagement metrics tied to marketing KPIs  
+- Used Myndsight (Neurosensum's EEG suite) to identify brand recall factors in simulated store environments  
+- Helped redesign shelf layouts for a CPG client, boosting product recall by 25% in post-test campaigns  
 
-• 2025.02: 🏍️ Launched the MotoGP Newsletter, integrating APIs to fetch real-time race results, rider stats, and news updates, delivering an engaging experience for motorsport enthusiasts.
+---
+## 🗓️ Recent Milestones
 
-• 2024.11: 📈 Developed a data-driven SQL model to enhance the SBA loan approval process. The project utilized historical data to analyze key factors such as loan amount, business location, loan term, and issuing bank, providing actionable insights for lenders.
+### 2025
 
-• 2024.10: 📊 I was selected as a graduate student analyst at the GSM. Student Analysts work closely with the executive and academic directors to create an engaging experience for current and future MSBA students. I leverage data to work on initiatives related to the student experience, program outreach, market intelligence, and analytics.
+| Date       | Event                                          | Details |
+|------------|------------------------------------------------|---------|
+| **July**   | ☁️ Preparing for **AWS Cloud Practitioner Certification** | Building foundational cloud skills to enhance deployment and DevOps knowledge |
+| **June**   | 🧠 Joined **Interview Query** as a AI Content Intern | Built GPT-powered Mermaid.js diagram generator and authored case conten |
+| **May**    | 🏅 Earned **Tableau Desktop Specialist Certification** | Validated data visualization and dashboarding expertise |
+| **April**  | 🥈 Built **Cascade Crisis AI** at AggieHacks 2025 | Real-time disaster response platform using GeoPandas, DBSCAN, NLP |
+| **March**  | 📉 Completed **Telecom Churn Prediction** | Ensemble ML model for high-risk customer detection using billing/support data |
+| **February**| 🏁 Launched **MotoGP Newsletter** | Real-time race stats and rider updates via API integration |
 
-• 2024.08: 🚩 A New practicum program is coming, where the team has tasked us to implement a Generative AI chatbot to improve operational efficiency and support data-driven decision-making. (Expected to 2025.06): [Owens Corning](https://www.owenscorning.com/en-us)
 
-• 2024.07: 🛸 Started my new journey in San Francisco, California, go read my article on the UC Davis GSM Website: [UC Davis GSM](https://gsm.ucdavis.edu/blog/creating-community-my-journey-international-msba-student)
+### 2024
 
-• 2024.03: 🎉 Admitted to the [UCDavis MSBA Program](https://gsm.ucdavis.edu/master-science-business-analytics-msba)
+| Date       | Event                                          | Details |
+|------------|------------------------------------------------|---------|
+| **November**| 💼 Developed **SQL Model for SBA Loan Approval** | Analyzed historical data for insights into loan approval factors |
+| **October**| 📚 Selected as **Graduate Student Analyst (GSA)** at UC Davis | Worked on alumni analytics, market intelligence, and GSM strategy |
+| **August** | 🚀 Started **Owens Corning Practicum Project** | Built generative AI chatbot to streamline access to 55M+ records |
+| **July**   | 🌉 Published UC Davis GSM blog: [*"Creating Community..."*](https://gsm.ucdavis.edu/blog/creating-community-my-journey-international-msba-student) | Reflected on transition to MSBA and building connections as an international student |
+| **March**  | 🎉 Admitted to **UC Davis MSBA Program** | Began MS journey in San Francisco focused on analytics and strategy |
 
 ---
 
 <h2 align="left">📊 Key Analytics Projects: </h2>
+<div align="center">
 
-<h3 align="left">📡 Telecom Customer Churn Prediction (March 2025):</h3>
-<p>🔍 Developed a machine learning model to predict customer churn using telecom usage patterns, billing behavior, and customer support interactions. 🚀 Leveraged ensemble learning techniques to enhance prediction accuracy and provided actionable insights for proactive customer retention strategies.</p>
+| 🎯 **Project** | 💡 **Impact & Description** | 🛠 **Tech Stack** |
+|:---|:---|:---|
+| 🚏 **[SFMTA Citation Forecasting](https://github.com/vatsalnanawati/SFMTA-Citation-Forecasting)** | Built a forecasting and geospatial dashboard for San Francisco Muni citations using datetime clustering and violation trends.<br/>📈 Enables smarter officer deployment strategies for high-risk zones. | `Python` • `Gradio` • `Pandas` • `Seaborn` • `DataSF API` |
+| 🧠 **[Interview Query Diagram Generator](https://github.com/vatsalnanawati/IQ-LLM-Diagram-AI)** | Created a GPT-powered tool that converts system design case studies into Mermaid.js diagrams.<br/>⚙️ Boosts content production speed and structure for Interview Query's case library. | `Python` • `Streamlit` • `Mermaid.js` • `OpenAI API` • `LLM Prompt Engineering` |
+| 📶 **Telecom Churn Prediction** | Built a churn prediction model using customer usage, billing, and service logs.<br/>🚀 Applied ensemble methods to improve accuracy and inform retention actions. | `Python` • `scikit-learn` • `pandas` • `matplotlib` |
+| 📉 **Stock Market Trends During AI Disruptions** | Assessed stock volatility shifts post-AI earnings call disclosures.<br/>🧾 Performed sentiment analysis on SEC filings to identify contrarian investment patterns. | `Python` • `yFinance` • `EDGAR API` • `BeautifulSoup` |
+| 💰 **Loan Classification with SQL** | Designed a normalized MySQL database to analyze loan approvals and defaults.<br/>📌 Derived credit and employment-based insights with complex SQL queries. | `SQL` • `MySQL` • `ERD` |
+| 📊 **Wallet Wise PowerBI Dashboard** | Developed a dashboard to detect telecom fraud and revenue leakage using real-time metrics.<br/>🛡 Integrated multiple sources to monitor SMS, data, and voice transactions. | `PowerBI` • `DAX` • `Excel` |
 
-<h3 align="left">📈 Stock Market Trends During AI-Driven Market Disruptions (February 2025):</h3>
-<p>💹 Analyzed the impact of AI-driven financial shifts on stock prices using yFinance and SEC EDGAR API. 📉 Conducted sentiment analysis on AI-related financial disclosures and compared stock volatility with historical market crashes to derive actionable investment insights.</p>
+</div>
 
-<h3 align="left">💰 Loan Classification with SQL & Data Analytics (October 2024):</h3>
-<p>🛢️ Designed a normalized relational database in MySQL to analyze loan approvals and defaults. 📊 Created structured tables, performed complex SQL queries, and derived insights on credit history, employment status, and loan risks.</p>
-
-<h3 align="left">📊 Wallet Wise PowerBI Dashboard (March 2024):</h3>
-<p>🛡️ Designed and implemented the Wallet Wise PowerBI Dashboard to oversee revenue assurance and fraud detection for telecom services, including money, data, SMS, and voice. 🔎 Leveraged real-time data integration to monitor KPIs, detect irregularities, and highlight potential fraud, safeguarding revenue and minimizing losses.</p>
 
 ---
 ## 🛠️ Tech Stack
