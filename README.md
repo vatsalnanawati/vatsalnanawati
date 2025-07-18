@@ -52,7 +52,7 @@ Let’s connect! I’m always up for a conversation on **analytics, AI**, or the
 ## 💼 Professional Experience
 
 ### 🤖 Interview Query  
-**AI Content Intern** | Remote | June 2024 – Present  
+**AI Content Intern** | Remote | June 2025 – Present  
 - Developed an LLM-based diagram generator that converts system design prompts into Mermaid.js flowcharts  
 - Built a Streamlit tool that simplifies content creation for technical case studies using GPT-4 and prompt chaining  
 - Authored and edited case questions spanning product analytics, supply chain, SaaS metrics, and growth strategy  
